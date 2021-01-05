@@ -149,9 +149,3 @@ export default Home;
 
 
     
-
-/*
-grid-template-columns:repeat(auto-fit, minmax(300px,1fr));
-grid-column-gap: 3rem;
-grid-row-gap: 3rem;
-*/
